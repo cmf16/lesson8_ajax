@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Dec 7, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Claire Fry)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I used an API to make a program where users could research movies.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cmf16.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (APIs can be free and easy to use.)
+2. (I learned how to design and API key and put it in my code.)
+3. (I learned how to retrieve http messages.)
+4. (I learned how to use jquery code to retrieve data from the JSON object and place it on the html page.)
+5. (I learned the dynamic between my code and the API.)
